@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sattva_space/static/css/main.ff9b47bc.css",
+    "main.css": "/sattva_space/static/css/main.b007350b.css",
     "main.js": "/sattva_space/static/js/main.d23fa468.js",
     "reactPlayerYouTube.js": "/sattva_space/static/js/reactPlayerYouTube.5751ace8.chunk.js",
     "reactPlayerSoundCloud.js": "/sattva_space/static/js/reactPlayerSoundCloud.8360cef5.chunk.js",
@@ -19,7 +19,7 @@
     "static/js/453.66cfb5a3.chunk.js": "/sattva_space/static/js/453.66cfb5a3.chunk.js",
     "static/media/bgrd.jpg": "/sattva_space/static/media/bgrd.ad319fb78363a4b7c1a7.jpg",
     "index.html": "/sattva_space/index.html",
-    "main.ff9b47bc.css.map": "/sattva_space/static/css/main.ff9b47bc.css.map",
+    "main.b007350b.css.map": "/sattva_space/static/css/main.b007350b.css.map",
     "main.d23fa468.js.map": "/sattva_space/static/js/main.d23fa468.js.map",
     "reactPlayerYouTube.5751ace8.chunk.js.map": "/sattva_space/static/js/reactPlayerYouTube.5751ace8.chunk.js.map",
     "reactPlayerSoundCloud.8360cef5.chunk.js.map": "/sattva_space/static/js/reactPlayerSoundCloud.8360cef5.chunk.js.map",
@@ -38,7 +38,7 @@
     "453.66cfb5a3.chunk.js.map": "/sattva_space/static/js/453.66cfb5a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff9b47bc.css",
+    "static/css/main.b007350b.css",
     "static/js/main.d23fa468.js"
   ]
 }
