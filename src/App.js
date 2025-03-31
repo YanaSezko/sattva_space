@@ -3,6 +3,8 @@ import AudioPlayer from "./components/AudioPlayer";
 import AlbumList from "./components/AlbumList";
 import VideoPlayer from "./components/VideoPlayer";
 import VideoList from "./components/VideoList";
+import './App.css';
+
 
 export default function App() {
   const [selectedAlbum, setSelectedAlbum] = useState("");
@@ -10,7 +12,7 @@ export default function App() {
   return (
     <div>
       <div>
-      <h1>🎵 Музыкальный плеер</h1>
+      <h1 className="eagle-lake-regular">Music player</h1>
 
       {/* Список альбомов */}
       <AlbumList onSelectAlbum={setSelectedAlbum} />
@@ -19,7 +21,7 @@ export default function App() {
       <AudioPlayer selectedAlbum={selectedAlbum} />
     </div>
       <div>
-      <h1>🎵 Музыкальный и Видеоплеер</h1>
+      <h1 className="eagle-lake-regular">Video player </h1>
 
       {/* Список видео */}
       <VideoList onSelectVideo={setVideoUrl} />

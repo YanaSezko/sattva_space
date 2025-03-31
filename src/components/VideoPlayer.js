@@ -16,6 +16,7 @@ export default function VideoPlayer({ videoUrl }) {
       ) : (
         <p>Выберите видео для просмотра</p>
       )}
+      <p>♡ created by Yana Sezko ♡</p>
     </div>
   );
 }
