@@ -1,3 +1,4 @@
+
 export const albumsData = {
     "Аффирмации": [
       { title: "Песня 1", src: "/music/song1.mp3" },
