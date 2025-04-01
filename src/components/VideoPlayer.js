@@ -14,7 +14,7 @@ export default function VideoPlayer({ videoUrl }) {
           height="100%" 
         />
       ) : (
-        <p>Выберите видео для просмотра</p>
+        <h3>"Выберите видео для просмотра ⇧"</h3>
       )}
       <p>♡ created by Yana Sezko ♡</p>
     </div>

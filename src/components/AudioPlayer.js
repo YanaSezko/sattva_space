@@ -25,7 +25,7 @@ export default function CustomAudioPlayer({ selectedAlbum }) {
 
   return (
     <div className="player-container">
-      <h2>{selectedAlbum ? `Альбом: ${selectedAlbum}` : "Выберите альбом"}</h2>
+      <h2>{selectedAlbum ? `Альбом: ${selectedAlbum}` : "Выберите альбом ⇧"}</h2>
 
       {tracks.length > 0 ? (
         <>
@@ -53,7 +53,7 @@ export default function CustomAudioPlayer({ selectedAlbum }) {
           </ul>
         </>
       ) : (
-        <p>Нет песен для воспроизведения.</p>
+        <p>  ♡ ♡ ♡  </p>
       )}
     </div>
   );
